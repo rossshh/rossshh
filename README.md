@@ -59,7 +59,7 @@
   <a target="_blank"href="https://www.linkedin.com/in/roshan-kumar-jha-9677711a4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://x.com/jharoshan_">
   <img alt="X (formerly Twitter) Follow" 
-       src="https://img.shields.io/twitter/follow/akashdey9128?style=for-the-badge&logo=twitter&logoColor=white&color=black&labelColor=black" />
+       src="https://img.shields.io/twitter/follow/jharoshan_?style=for-the-badge&logo=twitter&logoColor=white&color=black&labelColor=black" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:roshanvats2003@gmail.com?subject=Hello%20Anirudh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/rosssh__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
